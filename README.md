@@ -282,3 +282,9 @@ Ambos tracks comparten los mismos requisitos de CI, `AI_USAGE.md`, `DEMO_PLAN.md
 - [bandit — security linter](https://bandit.readthedocs.io/)
 - [pytest](https://docs.pytest.org/)
 - [ReAct pattern (paper)](https://arxiv.org/abs/2210.03629)
+
+## Autor/a
+
+**Nombre:** Arnaldo Santander
+**Ciudad:** Asuncion
+**Qué me gustaría construir en el programa:** una línea. Un sistema de pagos
