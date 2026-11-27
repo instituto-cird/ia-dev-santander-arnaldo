@@ -38,5 +38,5 @@ En este reclamo el modelo nube-chico no coincidio con los otros dos. El resultad
 
 ## 5. Lo que el chequeo no verifica
 
-Los resultaods obtenidos no garantizan el mismo nivel de precision en un entorno con reclamos mas diversos y complejos. La cantidad de 20 reclamos son pocas para determinar la consistencia de las respuestas a lo largo del tiempo.
+Los resultaods obtenidos no garantizan el mismo nivel de precision en un entorno con reclamos mas diversos y complejos. La cantidad de 20 reclamos son pocas para determinar la consistencia de las respuestas a lo largo del tiempo.-
 
