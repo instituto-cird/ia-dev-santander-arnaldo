@@ -17,7 +17,8 @@ configuracion nube-grande es la mas efectiva y menos costosa.
 
 ## 3. Casos importantes
 
-- Reclamo R16: reembolso_pendiente,error_tecnico,baja,0,nube-chico,143,1475,7.59,0.0
+- Reclamo R16: reembolso_pendiente,error_tecnico,baja,0,nube-chico,143,1475,7.59,0.0.
+En este reclamo el modelo nube-chico no coincidio con los otros dos. El resultado fue equivocado al esperado pero el tiempo empleado fue mucho menor a los otros.
 
 ## 4. Regla de ruteo de modelos
 | Tarea                  | Modelo o configuración |   Por qué se elige |    Riesgo y privacidad |   Cuándo escalar              |
@@ -37,4 +38,5 @@ configuracion nube-grande es la mas efectiva y menos costosa.
 
 ## 5. Lo que el chequeo no verifica
 
-Los resultaods obtenidos no garatnizan el mismo nivel de precision en un entorno con reclaamos mas diversos y complejos. La cantidad de 20 reclamos son pocas para determinar la consistencia de las respuestas a lo largo del tiempo.
+Los resultaods obtenidos no garantizan el mismo nivel de precision en un entorno con reclamos mas diversos y complejos. La cantidad de 20 reclamos son pocas para determinar la consistencia de las respuestas a lo largo del tiempo.
+
